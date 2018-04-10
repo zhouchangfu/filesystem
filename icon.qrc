@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>up.jpg</file>
+        <file>file.jpg</file>
+        <file>dir.jpg</file>
+        <file>small.jpg</file>
+        <file>large.jpg</file>
+        <file>home.jpg</file>
+        <file>addUser.jpg</file>
+        <file>person.jpg</file>
+        <file>persons.jpg</file>
+    </qresource>
+</RCC>
